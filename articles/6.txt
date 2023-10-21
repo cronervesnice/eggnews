@@ -1,0 +1,4 @@
+helo guys so besicaly we hav aded sign up and leg in! go clicik log in above me right neow! i promise i do not stel pasword they are encrypted one hundred percent u can trust me bro!
+
+
+On a serious note: no I do not steal passwords, they are encrypted using the php function "password_hash()", don't believe me? Search it up.
