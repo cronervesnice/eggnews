@@ -1,6 +1,8 @@
 # eggnews
 
-u need sql btw
+Simple ass news site, not even that good but it's whatever.
+
+u need sql btw and all of the php extensions idk im dumb
 
 create
 
